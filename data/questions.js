@@ -1,26 +1,26 @@
 export default [
   {
-    question: 'In what contintent is Indonesia?',
+    question: 'Who formed the first political party in Nigeria?',
     options: [
       {
         id: '0',
         options: 'A',
-        answer: 'South America',
+        answer: 'Olusegun Obasanjo',
       },
       {
         id: '1',
         options: 'B',
-        answer: 'Europe',
+        answer: 'M.K.O Abiola',
       },
       {
         id: '2',
         options: 'C',
-        answer: 'Asia',
+        answer: 'Herbert Macauley',
       },
       {
         id: '0',
         options: 'D',
-        answer: 'India',
+        answer: 'Peter Obi',
       },
     ],
     correctAnswerIndex: 2,
@@ -52,27 +52,27 @@ export default [
     correctAnswerIndex: 0,
   },
   {
-    question: 'what is 5X5',
+    question: 'When was NCDC Established?',
     options: [
       {
         id: '0',
         options: 'A',
-        answer: '20',
+        answer: '2010',
       },
       {
         id: '1',
         options: 'B',
-        answer: '25',
+        answer: '2011',
       },
       {
         id: '2',
         options: 'C',
-        answer: '10',
+        answer: '2012',
       },
       {
         id: '0',
         options: 'D',
-        answer: '30',
+        answer: '2013',
       },
     ],
     correctAnswerIndex: 1,
@@ -130,133 +130,29 @@ export default [
     correctAnswerIndex: 2,
   },
   {
-    question: 'What is the Big  Smallest Ocean?',
+    question: 'Who was the first Nigerian to speak a foreign language',
     options: [
       {
         id: '0',
         options: 'A',
-        answer: 'Atlantic Ocean',
+        answer: 'Prof Wole Soyinka',
       },
       {
         id: '1',
         options: 'B',
-        answer: 'Pacific Ocean',
+        answer: 'Prof Toafeek',
       },
       {
         id: '2',
         options: 'C',
-        answer: 'Arctic Ocean',
+        answer: 'Dele Giwa',
       },
       {
-        id: '0',
+        id: '3',
         options: 'D',
-        answer: 'Indian Ocean',
+        answer: 'Oba Esigie of Benin',
       },
     ],
-    correctAnswerIndex: 2,
-  },
-  {
-    question: 'What is the Big  Smallest Ocean?',
-    options: [
-      {
-        id: '0',
-        options: 'A',
-        answer: 'Atlantic Ocean',
-      },
-      {
-        id: '1',
-        options: 'B',
-        answer: 'Pacific Ocean',
-      },
-      {
-        id: '2',
-        options: 'C',
-        answer: 'Arctic Ocean',
-      },
-      {
-        id: '0',
-        options: 'D',
-        answer: 'Indian Ocean',
-      },
-    ],
-    correctAnswerIndex: 2,
-  },
-  {
-    question: 'What is the Big  Smallest Ocean?',
-    options: [
-      {
-        id: '0',
-        options: 'A',
-        answer: 'Atlantic Ocean',
-      },
-      {
-        id: '1',
-        options: 'B',
-        answer: 'Pacific Ocean',
-      },
-      {
-        id: '2',
-        options: 'C',
-        answer: 'Arctic Ocean',
-      },
-      {
-        id: '0',
-        options: 'D',
-        answer: 'Indian Ocean',
-      },
-    ],
-    correctAnswerIndex: 2,
-  },
-  {
-    question: 'What is the Big  Smallest Ocean?',
-    options: [
-      {
-        id: '0',
-        options: 'A',
-        answer: 'Atlantic Ocean',
-      },
-      {
-        id: '1',
-        options: 'B',
-        answer: 'Pacific Ocean',
-      },
-      {
-        id: '2',
-        options: 'C',
-        answer: 'Arctic Ocean',
-      },
-      {
-        id: '0',
-        options: 'D',
-        answer: 'Indian Ocean',
-      },
-    ],
-    correctAnswerIndex: 2,
-  },
-  {
-    question: 'What is the Big  Smallest Ocean?',
-    options: [
-      {
-        id: '0',
-        options: 'A',
-        answer: 'Atlantic Ocean',
-      },
-      {
-        id: '1',
-        options: 'B',
-        answer: 'Pacific Ocean',
-      },
-      {
-        id: '2',
-        options: 'C',
-        answer: 'Arctic Ocean',
-      },
-      {
-        id: '0',
-        options: 'D',
-        answer: 'Indian Ocean',
-      },
-    ],
-    correctAnswerIndex: 2,
+    correctAnswerIndex: 3,
   },
 ];

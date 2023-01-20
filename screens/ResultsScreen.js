@@ -29,7 +29,7 @@ const ResultsScreen = () => {
           justifyContent: 'space-between',
         }}
       >
-        <Text style={{ fontSize: 'bold' }}>Your Results</Text>
+        <Text style={{ fontWeight: 'bold', fontSize: 17 }}>Your Results</Text>
         <View
           style={{
             flexDirection: 'row',
@@ -56,7 +56,7 @@ const ResultsScreen = () => {
         }}
       >
         <Text>Questions Attempted</Text>
-        <Text>(10/10)</Text>
+        <Text>(6/6)</Text>
       </View>
 
       <Pressable

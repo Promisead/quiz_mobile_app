@@ -283,7 +283,7 @@ const QuizScreen = () => {
           </Text>
         )}
 
-        {index + 1 >= questions.length ? (
+        {index + 1 >= questions.length && selectedAnswerIndex !== null ? (
           <Pressable
             onPress={() =>
               navigation.navigate('Results', {
